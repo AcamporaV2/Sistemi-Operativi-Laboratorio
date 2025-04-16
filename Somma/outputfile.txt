@@ -1,0 +1,3 @@
+Somma: 11
+Somma: 9
+Uscita.
